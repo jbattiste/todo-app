@@ -1,8 +1,8 @@
-package io.schultz.dustin.todoapp.service;
+package com.todoapp.service;
 
-import io.schultz.dustin.todoapp.converter.TodoListConverter;
-import io.schultz.dustin.todoapp.dto.TodoListDto;
-import io.schultz.dustin.todoapp.repository.TodoRepository;
+import com.todoapp.repository.TodoRepository;
+import com.todoapp.converter.TodoListConverter;
+import com.todoapp.dto.TodoListDto;
 import org.springframework.stereotype.Service;
 
 import javax.inject.Inject;

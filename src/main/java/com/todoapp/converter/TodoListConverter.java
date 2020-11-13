@@ -1,9 +1,9 @@
-package io.schultz.dustin.todoapp.converter;
+package com.todoapp.converter;
 
-import io.schultz.dustin.todoapp.dto.TodoItemDto;
-import io.schultz.dustin.todoapp.dto.TodoListDto;
-import io.schultz.dustin.todoapp.model.TodoItem;
-import io.schultz.dustin.todoapp.model.TodoList;
+import com.todoapp.dto.TodoItemDto;
+import com.todoapp.dto.TodoListDto;
+import com.todoapp.model.TodoItem;
+import com.todoapp.model.TodoList;
 import org.springframework.core.convert.converter.Converter;
 import org.springframework.stereotype.Component;
 

@@ -1,6 +1,6 @@
-package io.schultz.dustin.todoapp.repository;
+package com.todoapp.repository;
 
-import io.schultz.dustin.todoapp.model.TodoList;
+import com.todoapp.model.TodoList;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,4 +1,4 @@
-package io.schultz.dustin.todoapp.model;
+package com.todoapp.model;
 
 import javax.persistence.*;
 

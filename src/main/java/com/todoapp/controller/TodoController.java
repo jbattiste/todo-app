@@ -1,7 +1,7 @@
-package io.schultz.dustin.todoapp.controller;
+package com.todoapp.controller;
 
-import io.schultz.dustin.todoapp.dto.TodoListDto;
-import io.schultz.dustin.todoapp.service.TodoService;
+import com.todoapp.dto.TodoListDto;
+import com.todoapp.service.TodoService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
